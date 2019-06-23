@@ -1,6 +1,11 @@
 # Udacity-Bikeshare-Project
 Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses and filter for a dataset to analyze
 
+
+# How to run the script
+You can run the script using a Python integrated development environment (IDE) such as Spyder. To install Spyder, you will need to download the Anaconda installer. This script is written in Python 3, so you will need the Python 3.x version of the installer. After downloading and installing Anaconda, you will find the Spyder IDE by opening Anaconda Navigator.
+
+
 # Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -15,6 +20,7 @@ The Chicago and New York City files also have the following two columns:
 
 * Gender
 * Birth Year
+
 
 # Statistics Computed
 
