@@ -22,7 +22,7 @@ The Chicago and New York City files also have the following two columns:
 * Birth Year
 
 
-# Statistics Computed
+## Statistics Computed
 
 In this project, the code is written to provide the following information:
 
